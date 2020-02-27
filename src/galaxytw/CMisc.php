@@ -1,6 +1,6 @@
 <?php
 
-namespace core;
+namespace galaxytw;
 
 class CMisc {
 
