@@ -2,6 +2,6 @@
 
 require_once __DIR__.'/../vendor/autoload.php';
 
-use galaxytw\CMisc;
+use galaxytw\galaxytw\CMisc;
 
 echo CMisc::world();
