@@ -1,6 +1,6 @@
 {
     "name": "galaxytw/galaxytw",
-    "version":"0.0.9",
+    "version":"0.0.10",
     "description": "my php core project",
     "type": "library",
     "license":"MIT",

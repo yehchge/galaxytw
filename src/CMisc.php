@@ -5,7 +5,7 @@ namespace galaxytw\galaxytw;
 class CMisc {
 
     public static function world(){
-        return 'Hello World, Composer!'.PHP_EOL;
+        return 'Hello World, Composer 20200302!'.PHP_EOL;
     }
 
 }
